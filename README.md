@@ -1,9 +1,6 @@
 ### *Olá! Sou Rui Meirelles Magalhães* 🖐️ 
 ### *Analista/Desenvolvedor Java Sênior*
 
->![Template Alura](https://github.com/gui-lirasilva/Edige-POO/blob/master/Template/Thumbnails%20GitHub.png?raw=true)
-
-
 # Resumo do projeto
 Projeto em andamento, sendo realizado por integrantes do time Scuba da Alura, visando a prática com a linguagem Java e os conceitos do paradigma de orientação a objetos.
 
