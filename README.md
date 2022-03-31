@@ -1,3 +1,3 @@
 ### *Hi there* 👋
-### Olá! Sou Rui Meirelles Magalhães 🖐️ 
+### *Olá! Sou Rui Meirelles Magalhães* 🖐️ 
 
