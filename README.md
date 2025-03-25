@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Rui Maga
+# 👋 Olá! Sou o Rui Magalhães
 
 > 🎯 Analista de Sistemas | 💻 Desenvolvedor Backend Java| 🚀 Apaixonado por Tecnologia e Inovação
 
