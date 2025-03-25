@@ -1,8 +1,8 @@
-# 👋 Olá! Sou o Rui Magalhães
+# 👋 Olá! Sou Rui Magalhães
 
 > 🎯 Analista de Sistemas | 💻 Desenvolvedor Backend Java| 🚀 Apaixonado por Tecnologia e Inovação
 
-Bem-vindo ao meu perfil GitHub! Aqui você encontrará meus projetos, estudos, anotações e experiências com as tecnologias que mais gosto de trabalhar — especialmente **Java, Spring Boot, Python, Struts2, Oracle** e Outras.
+Este é o meu espaço no GitHub, onde reúno projetos, anotações e experiências com tecnologias que aplico no dia a dia — com destaque para **Java, Spring Boot, Python, Struts e Oracle**.
 
 ---
 
