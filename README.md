@@ -32,8 +32,8 @@ Bem-vindo ao meu perfil GitHub! Aqui você encontrará meus projetos, estudos, a
 
 ## ✨ Sobre Mim
 
-- 🎓 Sou formado em [Seu Curso], com anos de experiência como Analista de Sistemas.
-- 💡 Gosto de aprender e ensinar, atualmente estudando IA e automação com Python.
+- 🎓 Sou Bacharel em Administração de Empresas e Pós-Graduado em TI - Desenvolvimento de Aplicações Orientadas a Objetos Java, com anos de experiência como Analista de Sistemas Sênior.
+- 💡 Acredito no aprendizado contínuo e estou sempre em busca de novas tecnologias. Atualmente, estou me aprofundando em Inteligência Artificial e automação com Python.
 - 🔧 Participo de projetos com foco em organização, performance e código limpo.
 - 🏋️‍♂️ Pratico exercícios regularmente e valorizo disciplina, consistência e melhoria contínua.
 - ⏳ Visando criar fontes de renda extra através de SaaS e microSaaS.
@@ -55,9 +55,9 @@ Bem-vindo ao meu perfil GitHub! Aqui você encontrará meus projetos, estudos, a
 ---
 
 ## ⭐ Curiosidade
-> Sempre busco formas de automatizar tarefas repetitivas e documentar bem os projetos — porque código bom é código **útil, limpo e mantido com carinho**.
+> Sempre busco formas de automatizar tarefas repetitivas e documentar bem os projetos — porque código bom é código **útil e Organizado**.
 
 ---
 
-> Feito com ❤️ por **Rui Maga**
+> Atualizado por **Rui Magalhães**
 
